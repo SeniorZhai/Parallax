@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Parallax</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title_section1">Alicante</string>
+    <string name="title_section2">Barcelona</string>
+
+    <string name="alicante_texto_1">咱们看图说话，首先能看到的是，微信的爆发速度确实不慢，微信的注册用户数：\n从0到500万，用了4个月；\n从500万到1500万，用了3个月；\n从1500万到5000万用了4个月；\n从5000万到1个亿，用了3个月；\n从1个亿到2个亿，用了7个月；\n从2亿到3亿用了5个月，3亿到4亿用7个月；\n而4亿到6亿则是3个月。</string>
+    <string name="alicante_texto_2">国内智能机出货量在2012年爆发，大量的智能手机用户需要App，时机恰到好处，很多人手机里的IM，理所当然的将手机QQ和微信收入其中。\n2011年1月，用户可以使用QQ号注册微信，允许导入QQ好友。\n2011年7月，微信发布了V2.2版本，支持在微信上查看QQ离线消息。</string>
+    <string name="alicante_texto_3">"\n早期，同门QQ真的是对微信有不少联动，甚至看起来是帮衬的行为，我们其实可以设想，如果微信早期没有和用户在QQ上的社交关系绑定起来，微信还能不能以如此快的速度发展壮大起来。\n或许，摇一摇是一个爆发点，但如果我们回想一下，早期米聊基于手机通讯录好友，而微信，则基于QQ好友、手机通讯好友、邮箱好友，事实上，当微信出现在大众面前的时候，就已经注定了米聊的必然失败。\n毕竟，在国内，涉及到用户关系链的社交产品，除了腾讯，再没有第二家能够做得如何深入了。至于，未来会不会有人能够消解腾讯的关系链优势，那就只能到时候才知道了。"</string>
+    <string name="alicante_texto_4">"\n早期，同门QQ真的是对微信有不少联动，甚至看起来是帮衬的行为，我们其实可以设想，如果微信早期没有和用户在QQ上的社交关系绑定起来，微信还能不能以如此快的速度发展壮大起来。\n或许，摇一摇是一个爆发点，但如果我们回想一下，早期米聊基于手机通讯录好友，而微信，则基于QQ好友、手机通讯好友、邮箱好友，事实上，当微信出现在大众面前的时候，就已经注定了米聊的必然失败。\n毕竟，在国内，涉及到用户关系链的社交产品，除了腾讯，再没有第二家能够做得如何深入了。至于，未来会不会有人能够消解腾讯的关系链优势，那就只能到时候才知道了。"</string>
+    <string name="alicante_text_0">"注册用户数"</string>
+    <string name="barcelona_text_0">"Barcelona"</string>
+    <string name="alicante_explanada">"数量"</string>
+    <string name="barcelona_texto_1">"Barcelona (English /bɑrsə'loʊnə/, Catalan: [bərsə'ɫonə], Spanish: [barθe'lona]) is the capital city of the autonomous community of Catalonia in Spain and the country's 2nd largest city, with a population of 1.6 million[1] within its administrative limits. Its urban area extends beyond the administrative city limits with a population of around 4.5 million people, being the sixth-most populous urban area in the European Union after Paris, London, Madrid, the Ruhr area and Milan. About five million[2][3][4][5][6] people live in the Barcelona metropolitan area."</string>
+    <string name="barcelona_texto_2">"Of Barcelona's parks, Montjuïc is the largest, with 203 ha located on the mountain of the same name.[42] It is followed by Parc de la Ciutadella (which occupies the site of the old military citadel and which houses the Parliament building, the Barcelona Zoo and several museums); 31 ha or 76.6 acres including the zoo), the Guinardó Park (19 ha or 47.0 acres), Park Güell (designed by Antoni Gaudí; 17.2 ha or 42.5 acres), Oreneta Castle Park (also 17.2 ha or 42.5 acres), Diagonal Mar Park (13.3 ha or 32.9 acres, inaugurated in 2002), Nou Barris Central Park (13.2 ha or 32.6 acres), Can Dragó Sports Park and Poblenou Park (both 11.9 ha or 29.4 acres), the Labyrinth Park (9.10 ha or 22.5 acres), named after the garden maze it contains.[42]"</string>
+    <string name="barcelona_texto_3">"Barcelona has a great number of museums, which cover different areas and eras. The National Museum of Art of Catalonia possesses a well-known collection of Romanesque art while the Barcelona Museum of Contemporary Art focuses on post-1945 Catalan and Spanish art. The Fundació Joan Miró, Picasso Museum and Fundació Antoni Tàpies hold important collections of these world-renowned artists."</string>
+    <string name="barcelona_texto_4">"At the very top of the monument stands a 7.2 m (24 ft) tall bronze statue atop a 40 m (131 ft) tall Corinthian column. The statue was sculpted by Rafael Atché and is said to depict Columbus pointing towards the New World with his right hand, while holding a scroll in the left. It is a commonly held belief that instead of pointing to the west towards the New World, the statue points east towards Columbus's supposed home city of Genoa."</string>
+    <string name="barcelona_guell">Parc Güell</string>
+    <string name="about_text_2"><![CDATA[This is a demo app of a library.<br/>Developed by:<br/><a href=\'http://www.fmsirvent.com\'>fmSirvent</a><br/>You can see more info at:<br/><a href=\'https://github.com/Narfss/ParallaxEverywhere\'>https://github.com/Narfss/ParallaxEverywhere</a>]]></string>
+</resources>

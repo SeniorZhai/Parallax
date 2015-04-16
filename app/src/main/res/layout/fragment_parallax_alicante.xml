@@ -1,0 +1,125 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <FrameLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <com.fmsirvent.ParallaxEverywhere.PEWImageView
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_gravity="center"
+                android:layout_margin="10dp"
+                android:scaleType="centerCrop"
+                android:src="@mipmap/image1"
+                app:reverse="reverseX"/>
+
+            <com.fmsirvent.ParallaxEverywhere.PEWTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="10dp"
+                android:gravity="bottom|center_horizontal"
+                android:text="@string/alicante_text_0"
+                android:textColor="@android:color/white"
+                android:textSize="70sp"
+                app:block_parallax_x="true"
+                app:parallax_x="160dp"
+                app:parallax_y="160dp"
+                app:reverse="reverseX" />
+        </FrameLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="@string/alicante_texto_1" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:weightSum="2">
+
+            <FrameLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:layout_margin="10dp"
+                android:layout_weight="1">
+
+                <com.fmsirvent.ParallaxEverywhere.PEWImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center"
+                    android:layout_margin="10dp"
+                    android:scaleType="centerCrop"
+                    android:src="@mipmap/image2" />
+
+                <com.fmsirvent.ParallaxEverywhere.PEWTextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_margin="10dp"
+                    android:gravity="bottom|center_horizontal"
+                    android:text="@string/alicante_explanada"
+                    android:textColor="@android:color/white"
+                    app:block_parallax_x="true"
+                    app:parallax_x="160dp"
+                    app:parallax_y="160dp"
+                    app:reverse="reverseY" />
+
+            </FrameLayout>
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:layout_weight="1"
+                android:text="@string/alicante_texto_2" />
+
+
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="@string/alicante_texto_3" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:weightSum="2">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:layout_weight="1"
+                android:text="@string/alicante_texto_4" />
+
+
+            <com.fmsirvent.ParallaxEverywhere.PEWImageView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_margin="10dp"
+                android:layout_weight="1"
+                android:background="@android:color/darker_gray"
+                android:scaleType="centerCrop"
+                android:src="@mipmap/alicante_luceros"
+                app:reverse="reverseY" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</ScrollView>
